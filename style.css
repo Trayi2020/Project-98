@@ -1,0 +1,19 @@
+body{
+    background-color: #c7ecee;
+}
+
+h1{
+    font-weight: bold;
+    color:#192a56;
+}
+
+h4
+{
+    color:red;
+}
+
+img
+{
+    width: 200px;
+    border-radius: 4px;
+}
